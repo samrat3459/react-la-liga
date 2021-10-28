@@ -8,7 +8,7 @@
 
 > If the user clicks the Explore button, the user will see the details of the team.
     
-> On the details page, the user will see the team logo, banner, stadium, team details, and history. at end of this page, the user will see every team's social media linked icon. All information is dynamic.
+> On the details page, the user will see the team logo, banner, stadium, team details, and history. At end of this page, the user will see every team's social media linked icon. All information is dynamic.
 
 > Its Awesome Dynamic React Router web ......
 
